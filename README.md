@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kardynanfti23um
+- 👋 Hi, I’m @kardynan
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning python and web developing
 
